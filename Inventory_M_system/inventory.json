@@ -1,0 +1,214 @@
+{
+    "products": {
+        "1000": {
+            "brand": "Yippy",
+            "category": "Noodles",
+            "name": "Yippie",
+            "price": 10.0,
+            "quantity": 100
+        },
+        "1001": {
+            "brand": "Apni Bazzar",
+            "category": "oil",
+            "name": "soya oil",
+            "price": 40.0,
+            "quantity": 80
+        },
+        "1002": {
+            "brand": "dairy milk",
+            "category": "Chocolate",
+            "name": "crakers bar",
+            "price": 40.0,
+            "quantity": 150
+        },
+        "1003": {
+            "brand": "Apni Bazzar",
+            "category": "Vegetable",
+            "name": "Onion",
+            "price": 38.0,
+            "quantity": 200
+        },
+        "1004": {
+            "brand": "kissan",
+            "category": "sos",
+            "name": "tomato sos",
+            "price": 20.0,
+            "quantity": 78
+        },
+        "1005": {
+            "brand": "exo",
+            "category": "bar",
+            "name": "Exo bar",
+            "price": 40.0,
+            "quantity": 56
+        },
+        "1006": {
+            "brand": "Nestle",
+            "category": "coffee",
+            "name": "nestle freshness coffee",
+            "price": 60.0,
+            "quantity": 50
+        },
+        "1007": {
+            "brand": "vishal mega mart",
+            "category": "Fruits",
+            "name": "banana",
+            "price": 40.0,
+            "quantity": 20
+        },
+        "1008": {
+            "brand": "suhana",
+            "category": "spices",
+            "name": "Red chilli powder",
+            "price": 65.0,
+            "quantity": 25
+        },
+        "1009": {
+            "brand": "Parle",
+            "category": "cookie",
+            "name": "Happy Happy",
+            "price": 10.0,
+            "quantity": 65
+        },
+        "1010": {
+            "brand": "Nestle",
+            "category": "Chocolate",
+            "name": "sweet nuts",
+            "price": 5.0,
+            "quantity": 120
+        },
+        "1011": {
+            "brand": "suhana",
+            "category": "spices",
+            "name": "Haldi powder",
+            "price": 25.0,
+            "quantity": 100
+        },
+        "1012": {
+            "brand": "haldiram",
+            "category": "snack",
+            "name": "Namkeen",
+            "price": 55.0,
+            "quantity": 42
+        },
+        "1013": {
+            "brand": "haldiram",
+            "category": "Dairy",
+            "name": "Bread",
+            "price": 30.0,
+            "quantity": 30
+        },
+        "1014": {
+            "brand": "Apna bazaar",
+            "category": "Vegetable",
+            "name": "lady finger",
+            "price": 46.0,
+            "quantity": 40
+        },
+        "1015": {
+            "brand": "apne bazaar",
+            "category": "Dairy",
+            "name": "Eggs",
+            "price": 5.0,
+            "quantity": 200
+        },
+        "1016": {
+            "brand": "haldiram",
+            "category": "Chips",
+            "name": "salt and spicy",
+            "price": 10.0,
+            "quantity": 400
+        },
+        "1017": {
+            "brand": "Apne bazaar",
+            "category": "Fruits",
+            "name": "Apple",
+            "price": 80.0,
+            "quantity": 30
+        },
+        "1018": {
+            "brand": "harshi",
+            "category": "sos",
+            "name": "chocolate sos",
+            "price": 100.0,
+            "quantity": 120
+        },
+        "1019": {
+            "brand": "Parachute",
+            "category": "Oil",
+            "name": "Coconut Oil",
+            "price": 75.0,
+            "quantity": 39
+        },
+        "1020": {
+            "brand": "paper boat",
+            "category": "juice",
+            "name": "mango",
+            "price": 20.0,
+            "quantity": 60
+        },
+        "1021": {
+            "brand": "Amul",
+            "category": "Dairy",
+            "name": "Cheese",
+            "price": 45.0,
+            "quantity": 30
+        },
+        "1022": {
+            "brand": "ritik",
+            "category": "snacks",
+            "name": "poha",
+            "price": 65.0,
+            "quantity": 24
+        },
+        "1023": {
+            "brand": "californiam",
+            "category": "fruit",
+            "name": "Almonds nuts",
+            "price": 80,
+            "quantity": 500
+        },
+        "1024": {
+            "brand": "oreo",
+            "category": "Coockies",
+            "name": "oreo cookie",
+            "price": 20.0,
+            "quantity": 53
+        },
+        "1025": {
+            "brand": "dove",
+            "category": "soap",
+            "name": "dove soap",
+            "price": 40.0,
+            "quantity": 66
+        },
+        "1027": {
+            "brand": "excel",
+            "category": "powder",
+            "name": "washing powder",
+            "price": 7.0,
+            "quantity": 66
+        },
+        "1028": {
+            "brand": "ashirwad",
+            "category": "snacks",
+            "name": "sooje",
+            "price": 100.0,
+            "quantity": 45
+        },
+        "1029": {
+            "brand": "suhana",
+            "category": "spices",
+            "name": "paneer masala",
+            "price": 30.0,
+            "quantity": 27
+        },
+        "1030": {
+            "brand": "amul",
+            "category": "chocolate",
+            "name": "Dark chocolate",
+            "price": 40.0,
+            "quantity": 50
+        }
+    }
+}
